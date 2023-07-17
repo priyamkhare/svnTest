@@ -1,3 +1,4 @@
 <?php 
-echo "HI"; 
+    echo "HI"; 
+    echo "How to learn php";
 ?>
